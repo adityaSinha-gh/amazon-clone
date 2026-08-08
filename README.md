@@ -1,1 +1,1 @@
-# flipkart-clone
+# amazon-clone
